@@ -15,8 +15,8 @@
 * **الشفافية:** يمتلك المستخدمون التحكم الكامل في بياناتهم داخل التطبيق.
 
 ## 🌐 روابط هامة
-* **سياسة الخصوصية:** [https://mohannad.github.io/legal/](https://mohannad.github.io/legal/)
-* **البريد الإلكتروني للدعم:** support@khaleel-center.edu
+* **سياسة الخصوصية:** [https://mohannad-obaid.github.io/privacy-policy-khaleel-quran/](https://mohannad-obaid.github.io/privacy-policy-khaleel-quran/)
+* **البريد الإلكتروني للدعم:** mo7annad.obaid@gmail.com
 
 ---
 ### التقنيات المستخدمة
